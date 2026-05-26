@@ -1,0 +1,92 @@
+Brand,Model,Colorway,Size,Condition,Retail_Price_USD,Resale_Price_USD,Platform,Days_Listed,Profit_Margin_USD
+Nike,Mercurial Superfly 9 Elite,Blackout,10,New,275,310,StockX,5,35
+Nike,Mercurial Superfly 9 Elite,Blackout,9,New,275,290,Mercari,8,15
+Nike,Mercurial Vapor 15 Elite,White/Volt,10.5,New,250,280,StockX,3,30
+Nike,Mercurial Vapor 15 Elite,White/Volt,9,Like New,250,210,Mercari,14,-40
+Nike,Phantom GX Elite,Black/Chrome,10,New,250,265,GOAT,7,15
+Nike,Phantom GX Elite,Black/Chrome,11,Used,250,175,Mercari,21,-75
+Nike,Tiempo Legend 10 Elite,Natural/Obsidian,9.5,New,240,255,StockX,6,15
+Nike,Tiempo Legend 10 Elite,Natural/Obsidian,10,Like New,240,200,Mercari,18,-40
+Nike,Mercurial Superfly 8 Elite,Rawdacious,9,New,275,320,StockX,4,45
+Nike,Mercurial Superfly 8 Elite,Rawdacious,10.5,Used,275,190,Mercari,30,-85
+Nike,Mercurial Superfly 7 Elite,Black/Metallic Gold,10,New,275,350,StockX,2,75
+Nike,Mercurial Superfly 7 Elite,Black/Metallic Gold,9.5,Like New,275,295,Mercari,10,20
+Nike,Phantom GT2 Elite,Chlorine Blue,10,New,250,240,GOAT,12,-10
+Nike,Phantom GT2 Elite,Chlorine Blue,11,New,250,260,StockX,5,10
+Nike,Mercurial Vapor 14 Elite,Bright Crimson,9,New,250,290,StockX,3,40
+Adidas,Predator Accuracy+ Elite,Core Black,10,New,280,300,StockX,6,20
+Adidas,Predator Accuracy+ Elite,Core Black,9.5,Like New,280,240,Mercari,15,-40
+Adidas,Predator Edge+ SL,White/Black,10,New,300,340,StockX,4,40
+Adidas,Predator Edge+ SL,White/Black,11,New,300,315,GOAT,7,15
+Adidas,Predator Edge+ SL,White/Black,9,Used,300,210,Mercari,25,-90
+Adidas,Copa Pure+ Elite,Natural Leather,10,New,240,255,StockX,8,15
+Adidas,Copa Pure+ Elite,Natural Leather,9.5,Like New,240,205,Mercari,20,-35
+Adidas,X Speedportal+ Elite,Solar Red,10,New,260,275,StockX,5,15
+Adidas,X Speedportal+ Elite,Solar Red,10.5,New,260,280,GOAT,6,20
+Adidas,X Speedportal+ Elite,Solar Red,9,Used,260,185,Mercari,28,-75
+Adidas,Predator Freak+ SL,White/Black,10,New,300,345,StockX,3,45
+Adidas,Copa Mundial,Black/White,10,New,160,180,Mercari,12,20
+Adidas,Copa Mundial,Black/White,9.5,Used,160,130,Mercari,22,-30
+Adidas,Predator Accuracy.1 FG,Core Black,10,New,180,190,GOAT,9,10
+Adidas,X Crazyfast+ Elite,Solar Orange,10,New,260,295,StockX,4,35
+Puma,Future 7 Ultimate,Black/Gold,10,New,250,265,StockX,7,15
+Puma,Future 7 Ultimate,Black/Gold,9.5,Like New,250,215,Mercari,16,-35
+Puma,King Ultimate,Black/White,10,New,240,250,GOAT,10,10
+Puma,King Ultimate,Black/White,9,Used,240,170,Mercari,24,-70
+Puma,Ultra Ultimate,Burst Pack,10,New,230,245,StockX,6,15
+Puma,Ultra Ultimate,Burst Pack,10.5,New,230,240,Mercari,11,10
+New Balance,Furon v7+ Pro,White/Black,10,New,200,215,StockX,8,15
+New Balance,Furon v7+ Pro,White/Black,9.5,Like New,200,175,Mercari,18,-25
+New Balance,Tekela v4+ Magia,Black/White,10,New,200,210,GOAT,9,10
+New Balance,442 v2 Pro,Dark Mushroom,10,New,130,140,Mercari,13,10
+Nike,Mercurial Superfly 9 Elite,White/Total Orange,9,New,275,305,StockX,4,30
+Nike,Mercurial Superfly 9 Elite,White/Total Orange,10,Like New,275,255,Mercari,12,-20
+Nike,Mercurial Vapor 15 Elite,Black/Chrome,10,New,250,270,GOAT,6,20
+Nike,Mercurial Vapor 15 Elite,Black/Chrome,9.5,Used,250,180,Mercari,26,-70
+Nike,Phantom GX 2 Elite,Bright Crimson,10,New,260,280,StockX,5,20
+Nike,Phantom GX 2 Elite,Bright Crimson,11,New,260,275,GOAT,8,15
+Nike,Phantom GX 2 Elite,Bright Crimson,9,Used,260,190,Mercari,22,-70
+Nike,Tiempo Legend 10 Elite,Gold/Black,10,New,240,260,StockX,7,20
+Nike,Tiempo Legend 10 Elite,Gold/Black,9.5,Like New,240,210,Mercari,15,-30
+Nike,Mercurial Superfly 8 Elite,Blueprint Pack,10,New,275,310,StockX,3,35
+Nike,Mercurial Superfly 8 Elite,Blueprint Pack,9,New,275,300,GOAT,5,25
+Nike,Mercurial Vapor 14 Elite,Spectrum Pack,10.5,New,250,285,StockX,4,35
+Nike,Mercurial Vapor 14 Elite,Spectrum Pack,10,Used,250,175,Mercari,30,-75
+Nike,Phantom GT2 Elite,Recharge Pack,9.5,New,250,265,StockX,6,15
+Nike,Phantom GT2 Elite,Recharge Pack,10,Like New,250,225,Mercari,14,-25
+Nike,Mercurial Superfly 7 Elite,Evolution Pack,10,New,275,340,StockX,3,65
+Nike,Mercurial Superfly 7 Elite,Evolution Pack,9,Used,275,200,Mercari,28,-75
+Adidas,Predator Accuracy+ Elite,White/Solar Yellow,10,New,280,295,StockX,7,15
+Adidas,Predator Accuracy+ Elite,White/Solar Yellow,9.5,Used,280,200,Mercari,24,-80
+Adidas,Predator Edge+ SL,Core Black/White,10,New,300,330,StockX,5,30
+Adidas,Predator Edge+ SL,Core Black/White,11,Like New,300,265,Mercari,16,-35
+Adidas,X Speedportal+ Elite,Core Black,10,New,260,270,GOAT,8,10
+Adidas,X Speedportal+ Elite,Core Black,9,New,260,280,StockX,4,20
+Adidas,X Speedportal+ Elite,Core Black,10.5,Used,260,185,Mercari,27,-75
+Adidas,Copa Pure+ Elite,White/Gold,10,New,240,260,StockX,6,20
+Adidas,Copa Pure+ Elite,White/Gold,9.5,Used,240,175,Mercari,23,-65
+Adidas,X Crazyfast+ Elite,Core Black,10,New,260,285,StockX,4,25
+Adidas,X Crazyfast+ Elite,Core Black,9,Like New,260,235,Mercari,13,-25
+Adidas,Predator Freak+ SL,Solar Yellow,10,New,300,350,StockX,2,50
+Adidas,Predator Freak+ SL,Solar Yellow,11,New,300,335,GOAT,6,35
+Adidas,Copa Mundial,Black/White,10.5,New,160,175,Mercari,10,15
+Adidas,Copa Mundial,Black/White,9,Used,160,120,Mercari,25,-40
+Adidas,Predator Accuracy.1 FG,White/Black,10,New,180,195,StockX,8,15
+Adidas,Predator Accuracy.1 FG,White/Black,9.5,Used,180,135,Mercari,20,-45
+Puma,Future 7 Ultimate,White/Black,10,New,250,260,StockX,8,10
+Puma,Future 7 Ultimate,White/Black,9.5,Like New,250,220,Mercari,17,-30
+Puma,Future 7 Ultimate,Fearless Pack,10,New,250,275,StockX,5,25
+Puma,King Ultimate,White/Gold,10,New,240,255,GOAT,9,15
+Puma,King Ultimate,White/Gold,9,Used,240,165,Mercari,26,-75
+Puma,Ultra Ultimate,White/Black,10,New,230,250,StockX,5,20
+Puma,Ultra Ultimate,White/Black,10.5,Like New,230,205,Mercari,14,-25
+Puma,Future Z 1+ SL,Yellow/Black,10,New,275,295,StockX,6,20
+Puma,Future Z 1+ SL,Yellow/Black,9.5,Used,275,195,Mercari,29,-80
+New Balance,Furon v7+ Pro,Black/Gold,10,New,200,220,StockX,7,20
+New Balance,Furon v7+ Pro,Black/Gold,9,Like New,200,180,Mercari,15,-20
+New Balance,Tekela v4+ Magia,White/Red,10,New,200,215,GOAT,8,15
+New Balance,Tekela v4+ Magia,White/Red,9.5,Used,200,155,Mercari,22,-45
+New Balance,442 v2 Pro,Black/White,10,New,130,145,StockX,10,15
+New Balance,442 v2 Pro,Black/White,9,Used,130,100,Mercari,20,-30
+Mizuno,Morelia Neo IV Beta Elite,White/Black,10,New,260,275,StockX,8,15
+Mizuno,Morelia Neo IV Beta Elite,White/Black,9.5,Like New,260,230,Mercari,16,-30
